@@ -26,7 +26,7 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: 'https://orgca353700.crm.dynamics.com/'
-  CLIENT_ID: 272279a0-d6a7-479e-8774-4038072c06e5
+  CLIENT_ID: '272279a0-d6a7-479e-8774-4038072c06e5'
   TENANT_ID: 'dd5721d7-28d4-4e06-850c-f687a0c6b4d2'
 permissions:
   contents: write
